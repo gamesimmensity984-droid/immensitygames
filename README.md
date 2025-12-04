@@ -1,2 +1,2 @@
-# immensitygames
+# app-ads.txt
 google.com, pub-1996313283208557, DIRECT, f08c47fec0942fa0
